@@ -8,9 +8,9 @@ function Navbar() {
         <img
           src={logo}
           alt="Expert Mama Logo"
-          className="h-8 w-8 object-contain"
+          className="h-6 w-6 object-contain"
         />
-        <h1 className="text-xl font-bold text-orange-500">
+        <h1 className="text-xl font-bold text-white">
           Expert Mama
         </h1>
       </div>
